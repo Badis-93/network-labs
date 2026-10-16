@@ -58,7 +58,7 @@
 - Подписи IP-адресов через Place Note
 - Указано Ф.И.О. и назначение схемы: «Финальная работа»
 
-![topology](screenshots/01-topology.png)
+![topology](screenshots/01-final-topology.png)
 
 ## 📦 Файл проекта
 
